@@ -11,7 +11,7 @@ from google.oauth2.credentials import Credentials
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
 
 # The ID and range of a sample spreadsheet.
-SPREADSHEET_ID = '1nJVeRMMGCS-sQCAAcHdc2ZNNLHVdkOlc-HrSD4xeakk'
+SPREADSHEET_ID = ''
 
 
 def main():
