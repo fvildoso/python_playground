@@ -31,4 +31,4 @@ git clone https://github.com/fvildoso/python_playground
 ```
 pip install -r requirements.txt
 ```
-3. Para el ejemplo de Google Sheets, se tiene que revisar previamente
+3. Para el ejemplo de Google Sheets, se tiene que revisar previamente la documentación aquí https://developers.google.com/sheets/api/guides/authorizing 
