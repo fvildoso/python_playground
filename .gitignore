@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# otros
+/01 Sheets/Microsoft Excel/out/
+/01 Sheets/Google Sheets/credentials/
