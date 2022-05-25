@@ -57,14 +57,16 @@ def main():
             print(row)
 
     # The A1 notation of the values to update.
-    range_ = 'A1:C1'  # TODO: Update placeholder value.
+    range_ = 'A1:C2'  # TODO: Update placeholder value.
 
     # How the input data should be interpreted.
-    value_input_option = 'RAW'  # Podria ser RAW
+    value_input_option = 'USER_ENTERED'
+    # value_input_option = 'RAW'
 
     value_range_body = {
         'values': [
-            ['=A2+B2', 'nada', 'jaja3']
+            ['=A2+B2', 'nada', 'jaja3'],
+            ['1', '2', 'jaja1']
         ]
     }
 
